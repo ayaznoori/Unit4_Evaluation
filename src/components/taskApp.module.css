@@ -3,6 +3,7 @@
   margin:auto;
   width: 400px;
   margin-top: 50px;
-  border: 1px red solid;
+  height: 600px;
   border-radius: 10px;
+  background-color: white;
 }
