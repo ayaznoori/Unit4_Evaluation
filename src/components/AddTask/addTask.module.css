@@ -1,0 +1,25 @@
+.todoForm {
+  /* Sample */
+ padding: 20px;
+ background-color: white;
+ display: flex;
+justify-content: space-between;
+}
+.inputbox{
+  width: 80%;
+  font-size: 18px;
+  border: none;
+  font-weight: bold;
+}
+.inputbutton{
+ background-color: white;
+  border: 0px;
+  font-size: 40px;
+  color: rgb(0, 183, 255);
+}
+.inputbox:focus{
+  outline: none;
+}
+.inputbutton:hover{
+  cursor: pointer;
+}
